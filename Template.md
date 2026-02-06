@@ -4,7 +4,7 @@
     CoC Inheritance 2025
   </a>
   <br>
-  ArchiTech: 
+  ArchiTech: “Vastu Principles, Powered by Logic.”
 </h1>
 
 <div align="center">
@@ -29,7 +29,7 @@ By CodeForCure
 
 ## 📝 Description
 
-ArchiTEch is an intelligent floor plan generation app that creates optimized residential layouts using minimal inputs such as plot size and configuration (1BHK, 2BHK, 3BHK). It applies Operations Research and constraint-based logic to efficiently utilize space and bridge the gap between user requirements and practical architectural design.
+ArchiTEch is an intelligent floor-plan generation application that creates Vastu-compliant layouts using minimal inputs such as plot size and house type (1BHK, 2BHK, or 3BHK). It uses Operations Research and constraint-based logic to optimize space and bridge the gap between user needs and practical architectural design.
 
 ## 🔗 Links
 
