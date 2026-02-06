@@ -109,12 +109,12 @@ npm start
 
 ## 👨‍💻 Team Members
 
-* **[Name]**: [GitHub Profile Link]
-* **[Name]**: [GitHub Profile Link]
-* **[Name]**: [GitHub Profile Link]
-* **[Name]**: [GitHub Profile Link]
+* **Aishwarya Jadhav**: [GitHub Profile Link]
+* **Rudrani Wadelkar**: [GitHub Profile Link]
+* **Shreya Kale**: [GitHub Profile Link]
+* **Sejal Bodakhe**: [GitHub Profile Link]
 
 ## 👨‍🏫 Mentors
 
-* **[Mentor Name]**: [GitHub/LinkedIn Link]
-* **[Mentor Name]**: [GitHub/LinkedIn Link]
+* **Ishaan Shaikh**: [GitHub/LinkedIn Link]
+* **Vedant Anasune**: [GitHub/LinkedIn Link]
