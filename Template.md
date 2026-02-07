@@ -74,7 +74,7 @@ graph LR
 
 ## 🔮 Future Scope
 
-* [Integration of X technology].
+* [Integrate to X 
 * [Expansion to Y platforms].
 * [User authentication updates].
 
