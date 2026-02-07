@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-By CodeForCure
+By Code4Cure
 </div>
 <hr>
 
