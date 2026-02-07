@@ -53,9 +53,9 @@ graph LR
 
 ### Front-end:Typescript,Tailwindcss
 
-### Back-end:Flask Python API
+### Back-end:Python REST API 
 
-### Database / Blockchain / ML (Optional Sections)
+### Constraint-Based rule engine
 
 ## 📈 Progress
 
@@ -80,8 +80,8 @@ graph LR
 
 ## 💸 Applications
 
-1. **Application Area 1** - [How this project applies to this area].
-2. **Application Area 2** - [How this project applies to this area].
+1. **Residential House Planning** - It enables homeowners to obtain accurate, Vastu-compliant designs without requiring deep architectural or traditional Vastu expertise.
+2. **Educational & Academic Use** - It helps architecture, civil, and computer science students understand the real-world application of constraint satisfaction, Operations Research, and rule-based systems through an interactive, problem-solving approach.
 
 ## 🛠 Project Setup
 
