@@ -29,7 +29,7 @@ By Code4Cure
 
 ## 📝 Description
 
-ArchiTEch is an intelligent floor-plan generation application that creates Vastu-compliant layouts using minimal inputs such as plot size and house type (1BHK, 2BHK, or 3BHK). It uses Operations Research and constraint-based logic to optimize space and bridge the gap between user needs and practical architectural design.
+ArchiTech is an intelligent floor-plan generation application that creates Vastu-compliant layouts using minimal inputs such as plot size and house type (1BHK, 2BHK, or 3BHK). It uses Operations Research and constraint-based logic to optimize space and bridge the gap between user needs and practical architectural design.
 
 ## 🔗 Links
 
@@ -51,7 +51,7 @@ graph LR
 
 ```
 
-### Front-end:Typescript,Tailwindcss
+### Front-end:Typescript,Tailwind CSS
 
 ### Back-end:Python REST API 
 
@@ -61,11 +61,35 @@ graph LR
 
 ### Fully Implemented Features
 
-* **Feature One**: [Description of feature one].
-* **Feature Two**: [Description of feature two].
-* **Feature Three**: [Description of feature three].
-
----
+* **Automatic Vastu-Compliant Floor Plan Generation**:
+  1. Generates 1BHK, 2BHK, and 3BHK floor plans
+  2. Uses Vastu Shastra rules (direction, zoning, room placement)
+  3. Produces standard 2D top-view plans with:
+       3.1. Connected rooms
+       3.2. Recognizable furniture symbols
+       3.3. Doors, windows, parking, puja room
+       3.4. North arrow & dimension annotations
+  4. Output generated as SVG / image.
+   
+* **Automatic Furniture Placement**:
+  1. Furniture placed relative to room geometry, not random
+  2. Room-specific rule sets:
+       2.1. Living Room (sofa, TV, table, etc.)
+       2.2. Bedroom (bed, wardrobe, dressing)
+       2.3. Kitchen (platform, sink, stove, fridge)
+       2.4. Toilet/Bathroom (WC, sink)
+  3. Fully rule-based and extensible.
+   
+* **Vastu Compliance Detection & Scoring**:
+  1. Users can upload an existing floor plan image
+  2. System analyzes:
+       2.1. Room positions
+       2.2. Orientation
+       2.3. Violations of Vastu rules
+  3. Generates:
+       3.1. Vastu Compliance Score
+       3.2. Suggestions for improvement
+  4. Helps users understand what is wrong and how to fix it
 
 ### Partially Implemented Features / Work in Progress
 
@@ -74,9 +98,12 @@ graph LR
 
 ## 🔮 Future Scope
 
-* [Integrate to X 
-* [Expansion to Y platforms].
-* [User authentication updates].
+* [3D visualization and walkthrough of generated floor plans].
+* [Enhanced vastu scoring with priority-based rule weighting].
+* [Support for duplex, villas, and commercial layouts].
+* [User accounts with saved designs and version tracking].
+* [Mobile-friendly interface for on-site usage].
+
 
 ## 💸 Applications
 
