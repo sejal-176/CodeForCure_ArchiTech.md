@@ -44,24 +44,24 @@ ArchiTech is an intelligent floor-plan generation application that creates Vastu
 
 ```mermaid
 graph LR
-    A[User Input<br/>(Plot Area, Facing, BHK Type)] --> B[Frontend UI<br/>(React + Tailwind)]
-    B --> C[Backend API<br/>(Python REST)]
-    C --> D[Algorithm-1<br/>Room Allocation Engine]
-    D --> E[Algorithm-2<br/>Furniture Placement Engine]
-    E --> F[SVG / Image Floor Plan Generator]
-    F --> G[Frontend Visualization]
+    A["User Input\n(Plot Area, Facing, BHK Type)"] --> B["Frontend UI\n(React + Tailwind)"]
+    B --> C["Backend API\n(Python REST)"]
+    C --> D["Algorithm-1\nRoom Allocation Engine"]
+    D --> E["Algorithm-2\nFurniture Placement Engine"]
+    E --> F["SVG / Image Floor Plan Generator"]
+    F --> G["Frontend Visualization"]
+
 ```
 ```mermaid
 graph LR
-    A[Uploaded Floor Plan Image] --> B[Frontend Detector UI]
-    B --> C[Backend API<br/>(Python REST)]
-    C --> D[Image Preprocessing Module]
-    D --> E[Room & Object Detection]
-    E --> F[Vastu Rule Engine]
-    F --> G[Compliance Score Calculator]
-    G --> H[Suggestions & Corrections]
-    H --> I[Frontend Analysis Report]
-
+    A["Uploaded Floor Plan Image"] --> B["Frontend Detector UI"]
+    B --> C["Backend API\n(Python REST)"]
+    C --> D["Image Preprocessing Module"]
+    D --> E["Room & Object Detection"]
+    E --> F["Vastu Rule Engine"]
+    F --> G["Compliance Score Calculator"]
+    G --> H["Suggestions & Corrections"]
+    H --> I["Frontend Analysis Report"]
 ```
 
 ### Front-end:Typescript,Tailwind CSS
