@@ -95,7 +95,7 @@ git clone https://github.com/sejal-176/CodeForCure_ArchiTech.md.git
 2. Enter the project directory and install dependencies.
 
 ```bash
-cd [directory_name]
+cd ArchiTech
 npm install
 
 ```
